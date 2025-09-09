@@ -1,34 +1,45 @@
-# web_crawling
-web crawling for project
-
-[ 사용 방법 ]
+🚀 웹 크롤링 프로젝트 사용법 🌟
 
 
-가상환경 생성
+🐾 가상환경 생성
 
 
-가상환경은 프로젝트 폴더에서 아래처럼 명령어를 입력해 생성
+프로젝트 폴더에서 아래 명령어 입력해 가상환경을 생성해 주세요!
+
 
 
 
 python -m venv venv
 
 
-생성된 후에는 다음 명령어로 활성화: venv\Scripts\activate
+🌈 가상환경 활성화
 
 
-<<참고>> 비활성화: deactivate
+윈도우 기준 활성화는 아래 명령어로! 사용 후 종료는 deactivate로!
 
 
 
-필수 패키지 설치 방법
+venv\Scripts\activate
 
 
-가상환경 활성화 후, 아래 명령어로 필요한 라이브러리를 설치:
+
+
+deactivate  # 종료할 때 사용해요!
+
+
+💖 필수 패키지 설치
+
+
+가상환경이 켜진 상태에서 아래 명령어로 필요한 패키지들을 설치해 주세요!
+
+
 
 
 pip install selenium webdriver-manager requests
 
 
-위 다운받은 파일을 생성된 venv폴더에 넣고 실행
+🌟 파일 실행법
+
+
+다운받은 파일을 venv 폴더 내부에 넣고 실행하면 끝!
 

@@ -30,3 +30,5 @@ python -m venv venv
 pip install selenium webdriver-manager requests
 
 
+위 다운받은 파일을 생성된 venv폴더에 넣고 실행
+
